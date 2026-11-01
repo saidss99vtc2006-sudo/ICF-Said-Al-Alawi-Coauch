@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+*.log
+# Never upload your Android signing key to GitHub
+*.keystore
+signing-key-info.txt
+*.zip
